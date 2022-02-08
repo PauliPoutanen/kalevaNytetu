@@ -1,0 +1,34 @@
+{
+  "tviit": [
+    {
+      "id": 1,
+      "content": "Tämä on testiviesti tietokannasta",
+      "date": "Aikaleima on xx-xx-xx",
+      "important": true
+    },
+    {
+      "content": "Tämä on toinen testiviesti tietokannasta.",
+      "date": "Mon Feb 07 2022",
+      "hours": 15,
+      "minutes": 17,
+      "important": true,
+      "id": 2
+    },
+    {
+      "content": "FF220",
+      "date": "Mon Feb 07 2022",
+      "hours": 15,
+      "minutes": 59,
+      "important": true,
+      "id": 3
+    },
+    {
+      "content": "",
+      "date": "Mon Feb 07 2022",
+      "hours": 15,
+      "minutes": 59,
+      "important": true,
+      "id": 4
+    }
+  ]
+}
